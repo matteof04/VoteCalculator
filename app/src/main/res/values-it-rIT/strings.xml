@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolatore Voto</string>
+    <string name="calculate">Calcola</string>
+    <string name="max_grade">Voto Massimo</string>
+    <string name="min_grade">Voto Minimo</string>
+    <string name="max_score">Punteggio Massimo</string>
+    <string name="score_obtained">Punteggio Ottenuto</string>
+    <string name="generic_error_title">Errore</string>
+    <string name="generic_unknown_error">Errore sconosciuto</string>
+    <string name="generic_exit_button">Esci</string>
+    <string name="app_need_update_error">L\'app deve essere aggiornata</string>
+    <string name="app_version_error">Aggiornamento disponibile</string>
+</resources>

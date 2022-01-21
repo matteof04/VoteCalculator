@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vote Calculator</string>
+    <string name="max_grade">Maximum grade</string>
+    <string name="min_grade">Minimum grade</string>
+    <string name="max_score">Maximum score</string>
+    <string name="calculate">Calculate</string>
+    <string name="score_obtained">Score obtained</string>
+    <string name="generic_error_title">Error</string>
+    <string name="generic_unknown_error">Unknown error</string>
+    <string name="generic_exit_button">Exit</string>
+    <string name="app_need_update_error">App need to be updated</string>
+    <string name="app_version_error">Update available</string>
+    <string name="generic_download_button" translatable="false">Download</string>
+    <string name="logo" translatable="false">Logo</string>
+</resources>
